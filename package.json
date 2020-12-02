@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript_crypto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Arc1el/TypeScript_crypto",
+  "author": "Arc1el <khm970514@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
